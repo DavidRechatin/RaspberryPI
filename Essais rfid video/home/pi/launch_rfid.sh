@@ -1,0 +1,3 @@
+#! /bin/sh
+echo Launch of rfid.py...
+sudo python /home/pi/rfid.py
